@@ -1,4 +1,4 @@
-# Sculpture-Identification-Using-Deep-Learning-Models
+# Deep Learning Augmented Reality iOS App
 
 By just aiming the camera at the statue, a mobile application may recognize it and play an embedded video on the screen in a matter of seconds. This software makes it simple to learn about the history of sculptures around the University of Dayton without exerting any additional effort.
 
